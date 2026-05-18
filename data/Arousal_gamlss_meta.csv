@@ -1,0 +1,6 @@
+field,value
+transform,log
+inv_transform,exp
+n_subjects,1291
+n_variables,1
+var_names,Arousal_1
