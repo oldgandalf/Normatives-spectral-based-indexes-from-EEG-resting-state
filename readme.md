@@ -1,6 +1,6 @@
 **Back to the Future of Quantitative EEG:
-Normative Biomarkers from Spectral Ratios and Functional Indices for towards Diagnosis and Therapeutic Monitoring
-**
+Normative Biomarkers from Spectral Ratios and Functional Indices towards Diagnosis and Therapeutic Monitoring**
+
 **Background:** Quantitative EEG (qEEG) provides objective, millisecond-resolution measures of brain dynamics. Despite decades of methodological advances, clinically relevant derived indices—spectral power ratios, cognitive-emotional state markers, and physiological parameters—are typically reported as raw values without the normative context required for individualized clinical inference.
 
 **Objective:** To develop the first systematic age-dependent normative models for this family of derived qEEG indices using a multinational database, enabling probabilistic Z-score interpretation at the individual level with potential  objective therapeutic monitoring.
